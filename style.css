@@ -120,3 +120,25 @@ img {
   text-decoration: underline;
 }
 
+/* ##### media query #### */
+
+@media (max-width:341px){
+  .publicRepo{
+    display: block;
+  }
+}
+
+@media (max-width:512px){
+  .box-wrapper h1{
+    text-align: center;
+    margin-top: 1rem;
+  }
+  .box-wrapper{
+    width: 90%;
+  }
+
+  .main-heading{
+    text-align: center;
+    font-size: 2rem;
+  }
+}
