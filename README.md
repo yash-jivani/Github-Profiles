@@ -4,7 +4,7 @@
 - *You can find any github profile using this Github profile.*
 - *It will show the user's email, location, profile-photo, repo-link, profile-link, followers, following, etc...*
 
-- *[Tap Here to Visit](https://fervent-franklin-6c29b2.netlify.app/).*
+- *[Tap Here to Visit](https://61f7e94f5deb8ac24bacb23b--fervent-franklin-6c29b2.netlify.app/).*
 
 #javascript-mini-project #githubProfiles
 
